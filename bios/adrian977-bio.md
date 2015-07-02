@@ -1,6 +1,4 @@
 # About Adrian
 
-- Lives in Bucharest, RO
-- Loves to learn new things
-- Likes sunny weather in Caracal
-- Likes icecream
+- sssssssssssssssssss
+- aw gaw gaw gwag 
