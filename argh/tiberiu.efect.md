@@ -5,3 +5,4 @@
 - Loves snow in the summer
 
 -Will consider buying a house in the mountains to enjoy snow all round the year
+-Absolutely
