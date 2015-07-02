@@ -4,3 +4,4 @@ Lives in Romania, Bucharest
 Enjoys cooking, dancing, fitness
 Got engaged this year
 Change in repository
+I like Sushi too! 
