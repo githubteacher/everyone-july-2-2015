@@ -2,4 +2,4 @@
 
 - Lives in Virginia
 - Loves the Chesapeake Bay
-- Is a bike enthusiast
+- Is a road bike enthusiast
