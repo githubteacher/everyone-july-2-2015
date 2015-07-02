@@ -4,3 +4,6 @@ loves to dance
 
 
 loves to learn
+
+
+loves to sing
