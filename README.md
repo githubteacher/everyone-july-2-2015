@@ -1,7 +1,7 @@
 # Welcome to GitHub for Everyone
 
 **Date:** July 2, 2015
-**Trainer:** Cynthia Rich (@crichID)
+**Trainer:** Cynthia Rich (@crichID)[https://training.github.com/trainers/]
 **Q&A:** Brent Beer (@brntbeer)
 
 ## Today you will learn:
