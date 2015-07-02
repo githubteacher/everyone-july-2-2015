@@ -4,3 +4,4 @@
 - I love snowboarding and hiking in Autumn
 - I have 4 dogs and a baby on the way!
 - Adding change for suzanne
+- Making changes from local git desktop
