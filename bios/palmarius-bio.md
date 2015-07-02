@@ -1,2 +1,2 @@
 # About palmarius77
-- Romania
+- Romania, Iasi
