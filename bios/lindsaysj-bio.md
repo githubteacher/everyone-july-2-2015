@@ -6,3 +6,4 @@
 - :heart: Road trips, cooking, knitting
 - From Orange County
 - Love :dog:
+- Fan of chocolate and cake
