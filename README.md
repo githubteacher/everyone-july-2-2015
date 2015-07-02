@@ -10,3 +10,4 @@
 - How to collaborate effectively using GitHub
 - How to use the GitHub desktop application to work on project files locally
 
+## I hope you enjoyed this class!
