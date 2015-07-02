@@ -1,9 +1,14 @@
 #bill is here
 
-- today is July 2, 2015
 
+-removed three added four
 - lives in Frankfort I-L
-- 
+- edited with a text editor
 -test 123
 
-- Works at DRW
+- made a change to the line
+
+-Making changes to the file
+-this is great
+
+-made spelling changes
