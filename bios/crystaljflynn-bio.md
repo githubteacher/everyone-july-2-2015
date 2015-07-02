@@ -3,3 +3,4 @@
 - Communications Professional
  - Chasing her toddler
 - Ready for a 3 day weekend
+- Loves lasagna
