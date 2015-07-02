@@ -1,0 +1,3 @@
+- Lives in the Bay Area
+- Likes to build clouds
+- Wants to learn how to use githubAdd
